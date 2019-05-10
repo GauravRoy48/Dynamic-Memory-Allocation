@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557472132 source:d:\softwares\codeblocks\projects\dynamicallocation\main.c
+	<stdio.h>
+	<stdlib.h>
+
